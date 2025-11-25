@@ -1,4 +1,4 @@
-# Fullstack Assignment – Nua Internship (Frontend + Backend + Docker MySQL)
+# Fullstack Assignment – Nua Internship
 
 ## 🚀 Overview
 
